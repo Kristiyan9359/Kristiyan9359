@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Kristiyan9359&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
 # Hi, I'm Kristiyan Kamboshev
 
 ### Junior C# / .NET Developer
@@ -116,10 +120,6 @@ a simple CRUD exercise.
 <p align="center">
   <img src="./profile/stats.svg" height="170"/>
   <img src="./profile/top-langs.svg" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kristiyan9359&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
