@@ -114,8 +114,12 @@ a simple CRUD exercise.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kristiyan9359&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kristiyan9359&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="./profile/stats.svg" height="170"/>
+  <img src="./profile/top-langs.svg" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Kristiyan9359&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
