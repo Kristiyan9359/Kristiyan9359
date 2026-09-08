@@ -82,34 +82,66 @@ a simple CRUD exercise.
 - 🧱 Layered architecture with a dedicated service layer
 - 🧪 Unit and integration testing
 
+---
 
-🎓 Certifications
-C# & .NET
-Programming Fundamentals with C# — January 2025
-C# Advanced — May 2025
-C# OOP — June 2025
-Entity Framework Core — October 2025
-ASP.NET Fundamentals — January 2026
-ASP.NET Advanced — February 2026
-Database & Web
-MS SQL — September 2025
-HTML & CSS — May 2026
-Foundations & Career Development
-Programming Basics — September 2024
-IT Career Booster — February 2026
+## 🎓 Certifications
 
+### C# & .NET
 
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Kristiyan9359&show_icons=true&theme=tokyonight&hide_border=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kristiyan9359&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=Kristiyan9359&theme=tokyonight&hide_border=true" /> </p>
-🎯 Current Focus
+- **Programming Fundamentals with C#** — January 2025
+- **C# Advanced** — May 2025
+- **C# OOP** — June 2025
+- **Entity Framework Core** — October 2025
+- **ASP.NET Fundamentals** — January 2026
+- **ASP.NET Advanced** — February 2026
+
+### Database & Web
+
+- **MS SQL** — September 2025
+- **HTML & CSS** — May 2026
+
+### Foundations & Career Development
+
+- **Programming Basics** — September 2024
+- **IT Career Booster** — February 2026
+
+> All certifications were completed with **Excellent** results.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kristiyan9359&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kristiyan9359&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Kristiyan9359&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🎯 Current Focus
 
 I'm currently focused on:
 
-Deepening my knowledge of C# and .NET
-Building more complex ASP.NET Core applications
-Improving application architecture and separation of concerns
-Writing better unit and integration tests
-Strengthening my knowledge of SQL and Entity Framework Core
-Improving my understanding of secure application development
-📫 Connect With Me
-<p align="left"> <a href="https://github.com/Kristiyan9359"> <img src="https://img.shields.io/badge/GitHub-Kristiyan9359-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/kamboshev/"> <img src="https://img.shields.io/badge/LinkedIn-Kristiyan%20Kamboshev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p> ```
+- Deepening my knowledge of **C# and .NET**
+- Building more complex **ASP.NET Core applications**
+- Improving application architecture and separation of concerns
+- Writing better **unit and integration tests**
+- Strengthening my knowledge of **SQL and Entity Framework Core**
+- Improving my understanding of **secure application development**
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/Kristiyan9359">
+    <img src="https://img.shields.io/badge/GitHub-Kristiyan9359-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kamboshev/">
+    <img src="https://img.shields.io/badge/LinkedIn-Kristiyan%20Kamboshev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
