@@ -118,7 +118,6 @@ a simple CRUD exercise.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="./profile/stats.svg" height="170"/>
   <img src="./profile/top-langs.svg" height="170"/>
 </p>
 
