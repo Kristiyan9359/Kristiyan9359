@@ -82,6 +82,8 @@ a simple CRUD exercise.
 - 🧱 Layered architecture with a dedicated service layer
 - 🧪 Unit and integration testing
 
+[![View KiddoCare](https://img.shields.io/badge/View%20Project-KiddoCare-512BD4?style=for-the-badge&logo=github)](https://github.com/Kristiyan9359/KiddoCare)
+
 ---
 
 ## 🎓 Certifications
@@ -122,6 +124,14 @@ a simple CRUD exercise.
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kristiyan9359/Kristiyan9359/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
+
+---
+
 ## 🎯 Current Focus
 
 I'm currently focused on:
@@ -131,7 +141,7 @@ I'm currently focused on:
 - Improving application architecture and separation of concerns
 - Writing better **unit and integration tests**
 - Strengthening my knowledge of **SQL and Entity Framework Core**
-- Improving my understanding of **secure application development**
+- Improving my understanding of secure application development
 
 ---
 
