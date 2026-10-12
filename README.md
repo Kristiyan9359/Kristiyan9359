@@ -1,7 +1,3 @@
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Kristiyan9359&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
-
 # Hi, I'm Kristiyan Kamboshev
 
 ### Junior C# / .NET Developer
@@ -170,10 +166,6 @@ Currently expanding my knowledge beyond application development into deployment,
 
 # 📫 Connect With Me
 
-<p align="left">
-  <a href="https://github.com/Kristiyan9359">
-    <img src="https://img.shields.io/badge/GitHub-Kristiyan9359-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
   <a href="https://www.linkedin.com/in/kamboshev/">
     <img src="https://img.shields.io/badge/LinkedIn-Kristiyan%20Kamboshev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
