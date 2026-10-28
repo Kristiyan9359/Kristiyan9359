@@ -5,13 +5,6 @@
 </p>
 
 
-<p align="center">
-  <a href="https://kristiyan9359.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-kristiyan9359.github.io-6246d8?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://github.com/Kristiyan9359"><img src="https://img.shields.io/badge/GITHUB-Kristiyan9359-24292f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/kamboshev/"><img src="https://img.shields.io/badge/LINKEDIN-Kristiyan%20Kamboshev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
-
-
 ## 👨‍💻 About Me
 
 - 💻 Focused on **C# and .NET development**
