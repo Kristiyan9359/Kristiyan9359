@@ -1,12 +1,13 @@
-# Hi, I'm Kristiyan Kamboshev
+<p align="center">
+  <img src="./profile/portfolio-banner.svg" alt="Kristiyan Kamboshev — Junior C# / .NET Developer" width="100%" />
+</p>
 
-### Junior C# / .NET Developer
+<p align="center">
+  <a href="https://kristiyan9359.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-kristiyan9359.github.io-6246d8?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/Kristiyan9359"><img src="https://img.shields.io/badge/GITHUB-Kristiyan9359-24292f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/kamboshev/"><img src="https://img.shields.io/badge/LINKEDIN-Kristiyan%20Kamboshev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
-I build web applications with **C# and ASP.NET Core**, with a focus on backend development, business logic, data access, security, and testing.
-
-I'm continuously improving my skills in the **.NET ecosystem** and building complete applications that go beyond basic CRUD.
-
----
 
 ## 👨‍💻 About Me
 
@@ -166,7 +167,6 @@ Currently expanding my knowledge beyond application development into deployment,
 
 # 📫 Connect With Me
 
-  <a href="https://www.linkedin.com/in/kamboshev/">
-    <img src="https://img.shields.io/badge/LinkedIn-Kristiyan%20Kamboshev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/kamboshev/">
+  <img src="https://img.shields.io/badge/LinkedIn-Kristiyan%20Kamboshev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn — Kristiyan Kamboshev"/>
+</a>
