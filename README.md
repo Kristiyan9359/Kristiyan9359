@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="./profile/portfolio-banner.svg" alt="Kristiyan Kamboshev — Junior C# / .NET Developer" width="100%" />
+  <a href="https://kristiyan9359.github.io/" target="_blank">
+    <img src="./profile/portfolio-banner.svg" alt="Visit Kristiyan Kamboshev's Portfolio" width="100%" />
+  </a>
 </p>
+
 
 <p align="center">
   <a href="https://kristiyan9359.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-kristiyan9359.github.io-6246d8?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
